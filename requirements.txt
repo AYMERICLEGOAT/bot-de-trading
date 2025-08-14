@@ -14,6 +14,5 @@ websockets
 ntplib
 psutil
 
-# --- Cas spécial : TA-Lib depuis un fichier local ---
-# Assurez-vous que le nom du fichier correspond exactement à celui que vous avez téléchargé
-./libs/TA_Lib-0.4.28-cp311-cp311-win_amd64.whl
+# --- TA-Lib pour Linux (Railway) ---
+TA-Lib
