@@ -1,11 +1,13 @@
 # --- Bibliothèques ML & Finance ---
 pandas
 numpy
-ccxt
-lightgbm
 scikit-learn
+lightgbm==3.3.5  # version pip pure python, compatible sans libgomp
 arch
 joblib
+
+# --- Analyse technique (alternative TA-Lib pure Python) ---
+ta
 
 # --- Utilitaires et connectivité ---
 python-dotenv
@@ -13,6 +15,4 @@ requests
 websockets
 ntplib
 psutil
-
-# --- TA-Lib pour Linux (Railway) ---
-TA-Lib
+ccxt
