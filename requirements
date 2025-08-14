@@ -1,0 +1,19 @@
+# --- Bibliothèques ML & Finance ---
+pandas
+numpy
+ccxt
+lightgbm
+scikit-learn
+arch
+joblib
+
+# --- Utilitaires et connectivité ---
+python-dotenv
+requests
+websockets
+ntplib
+psutil
+
+# --- Cas spécial : TA-Lib depuis un fichier local ---
+# Assurez-vous que le nom du fichier correspond exactement à celui que vous avez téléchargé
+./libs/TA_Lib-0.4.28-cp311-cp311-win_amd64.whl 
